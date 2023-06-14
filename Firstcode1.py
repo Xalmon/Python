@@ -1,0 +1,7 @@
+name = input("enter your name")
+print("my name is", name)
+name = input("enter your name: ")
+print("my name is",name)
+print("so",name)
+print("you",name)
+print("wise",name)
